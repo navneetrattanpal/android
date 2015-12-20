@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_refresh" type="id">refresh</item>
+    <item name="action_new" type="id">addclass</item>
+    <item name="action_logout" type="id">logout</item>
+</resources>
